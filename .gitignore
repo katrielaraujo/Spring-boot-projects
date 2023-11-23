@@ -1,0 +1,21 @@
+# Arquivos de configuração do IntelliJ IDEA
+.idea/
+
+# Arquivos específicos do Maven
+target/
+mvnw
+mvnw.cmd
+
+# Logs
+*.log
+
+# Arquivos de compilação Java
+*.class
+
+# Arquivos de configuração Spring Boot
+application.properties
+application.yml
+
+# Arquivos de configuração de logs do Spring Boot
+logback-spring.xml
+logback.xml
